@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  outline: 0;
+  user-select: none;
+}
+
+:root {
+  --padding: 150px;
+  --poppins: 'Poppins', sans-serif;
+}
+
+/* ::-webkit-scrollbar {
+  display: none;
+} */
