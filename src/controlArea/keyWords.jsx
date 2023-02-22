@@ -1,0 +1,5 @@
+export const login = ["login", 1]
+export const register = ["signup", "register", "create", "account", 2]
+export const verifyEmail = ["verify", "email", "activate", 3]
+export const forgot = ["forgot", "reset", 4]
+export const disable = ["disable", "deactivate", 5, "de-activate"]
